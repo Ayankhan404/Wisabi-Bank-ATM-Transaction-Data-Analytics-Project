@@ -1,6 +1,6 @@
 # Wisabi-Bank-ATM-Transaction-Data-Analytics-Project/Report
 Business Problems
-Wisabi Bank wants to answer several business problem questions related to its ATM transactions data, which include:
+#Wisabi Bank wants to answer several business problem questions related to its ATM transactions data, which include:
 i.	What is the average transaction amount by location and transaction type?
 ii.	Which ATM location has the highest number of transactions per day, and at what time of the day do the transactions occur most frequently?
 iii.	Which age group has the highest number of transactions, and which transaction type do they usually perform?
